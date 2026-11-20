@@ -1,4 +1,4 @@
-# AI 算法图解讲义
+# Physical AI 0-1-♾️
 
 **在线阅读：<https://wikieden.github.io/ai-books/>**
 
