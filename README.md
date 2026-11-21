@@ -2,7 +2,7 @@
 
 **在线阅读：<https://wikieden.github.io/ai-books/>**
 
-11 本对话式讲义：一次讲一个小概念，白话类比 → 公式 → 例子，每章配可交互动画和复习卡片。共 206 章、224 个动画、517 张复习卡片。
+12 本对话式讲义：一次讲一个小概念，白话类比 → 公式 → 例子，每章配可交互动画和复习卡片。共 207 章、225 个动画、527 张复习卡片。
 
 | 领域 | 书 | 规模 | 源码 |
 |---|---|---|---|
@@ -15,6 +15,7 @@
 | 具身智能 | [VLA 从零到 π0](https://wikieden.github.io/vla-from-scratch/) | 14 章 · 19 个动画 · 26 张复习卡片（连载中） | [源码](https://github.com/wikieden/vla-from-scratch) |
 |  | [世界模型与 WAM 流派](https://wikieden.github.io/world-models-wam/) | 13 章 · 13 个动画 · 14 张复习卡片 | [源码](https://github.com/wikieden/world-models-wam) |
 |  | [读懂 GR00T 2](https://wikieden.github.io/reading-gr00t2/) | 11 章 · 10 个动画 · 24 张复习卡片 | [源码](https://github.com/wikieden/reading-gr00t2) |
+|  | [RSI 与 WAM/VLA](https://wikieden.github.io/self-improving-robots/) | 1 章 · 1 个动画 · 10 张复习卡片（连载中） | [源码](https://github.com/wikieden/self-improving-robots) |
 | 机器人系统 | [机器人软硬件架构](https://wikieden.github.io/robot-architecture/) | 10 章 · 14 个动画 · 40 张复习卡片 | [源码](https://github.com/wikieden/robot-architecture) |
 |  | [从零学 ROS 2](https://wikieden.github.io/ros2-from-scratch/) | 20 章 · 21 个动画 · 47 张复习卡片 | [源码](https://github.com/wikieden/ros2-from-scratch) |
 
