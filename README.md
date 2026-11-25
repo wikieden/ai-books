@@ -2,11 +2,11 @@
 
 **在线阅读：<https://wikieden.github.io/ai-books/>**
 
-16 本对话式讲义：一次讲一个小概念，白话类比 → 公式 → 例子，每章配可交互动画和复习卡片。共 340 章、359 个动画、952 张复习卡片。
+16 本对话式讲义：一次讲一个小概念，白话类比 → 公式 → 例子，每章配可交互动画和复习卡片。共 351 章、370 个动画、987 张复习卡片。
 
 | 领域 | 书 | 规模 | 源码 |
 |---|---|---|---|
-| 数学基础 | [数学与实验统计](https://wikieden.github.io/math-and-eval-stats/) | 40 章 · 40 个动画 · 135 张复习卡片（连载中） | [源码](https://github.com/wikieden/math-and-eval-stats) |
+| 数学基础 | [数学与实验统计](https://wikieden.github.io/math-and-eval-stats/) | 51 章 · 51 个动画 · 170 张复习卡片（连载中） | [源码](https://github.com/wikieden/math-and-eval-stats) |
 | 大模型基础 | [从零读懂 Transformer](https://wikieden.github.io/transformer-visual/) | 24 章 · 24 个动画 · 70 张复习卡片 | [源码](https://github.com/wikieden/transformer-visual) |
 |  | [超越 Transformer](https://wikieden.github.io/beyond-transformer/) | 9 章 · 9 个动画 · 19 张复习卡片 | [源码](https://github.com/wikieden/beyond-transformer) |
 | 生成式模型 | [从零读懂扩散模型](https://wikieden.github.io/diffusion-from-scratch/) | 18 章 · 18 个动画 · 38 张复习卡片 | [源码](https://github.com/wikieden/diffusion-from-scratch) |
