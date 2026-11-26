@@ -2,13 +2,13 @@
 
 **在线阅读：<https://wikieden.github.io/ai-books/>**
 
-16 本对话式讲义：一次讲一个小概念，白话类比 → 公式 → 例子，每章配可交互动画和复习卡片。共 376 章、395 个动画、1052 张复习卡片。
+16 本对话式讲义：一次讲一个小概念，白话类比 → 公式 → 例子，每章配可交互动画和复习卡片。共 385 章、404 个动画、1065 张复习卡片。
 
 | 领域 | 书 | 规模 | 源码 |
 |---|---|---|---|
 | 数学基础 | [数学与实验统计](https://wikieden.github.io/math-and-eval-stats/) | 66 章 · 66 个动画 · 215 张复习卡片 | [源码](https://github.com/wikieden/math-and-eval-stats) |
 | 大模型基础 | [从零读懂 Transformer](https://wikieden.github.io/transformer-visual/) | 24 章 · 24 个动画 · 70 张复习卡片 | [源码](https://github.com/wikieden/transformer-visual) |
-|  | [超越 Transformer](https://wikieden.github.io/beyond-transformer/) | 19 章 · 19 个动画 · 39 张复习卡片 | [源码](https://github.com/wikieden/beyond-transformer) |
+|  | [超越 Transformer](https://wikieden.github.io/beyond-transformer/) | 28 章 · 28 个动画 · 52 张复习卡片 | [源码](https://github.com/wikieden/beyond-transformer) |
 | 生成式模型 | [从零读懂扩散模型](https://wikieden.github.io/diffusion-from-scratch/) | 18 章 · 18 个动画 · 38 张复习卡片 | [源码](https://github.com/wikieden/diffusion-from-scratch) |
 | 训练系统与 GPU | [PyTorch 从里到外](https://wikieden.github.io/pytorch-inside-out/) | 36 章 · 36 个动画 · 135 张复习卡片 | [源码](https://github.com/wikieden/pytorch-inside-out) |
 |  | [CUDA 从线程到 Tensor Core](https://wikieden.github.io/cuda-to-tensor-core/) | 27 章 · 27 个动画 · 64 张复习卡片 | [源码](https://github.com/wikieden/cuda-to-tensor-core) |
